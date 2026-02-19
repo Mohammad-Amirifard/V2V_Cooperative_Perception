@@ -16,14 +16,12 @@ def _read_requirements_file():
 
 
 setup(
-    name='OpenCOOD',
+    name='V2V',
     packages=find_packages(),
-    url='https://github.com/ucla-mobility/OpenCDA.git',
     license='MIT',
-    author='Runsheng Xu, Hao Xiang',
-    author_email='rxx3386@ucla.edu',
+    author='Mohammad Amirifard',
     description='An opensource pytorch framework for autonomous driving '
                 'cooperative detection',
-    long_description="You can find more details about OpenCOOD at ",
+    long_description="You can find more details about src at ",
     install_requires=_read_requirements_file(),
 )
