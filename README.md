@@ -25,3 +25,75 @@ Instead of relying only on ego-vehicle sensors, we **fuse features from multiple
 <p align="center">
   <video src="PUT_YOUR_VIDEO.mp4" width="800" controls></video>
 </p>
+---
+
+## 🏗️ System Architecture
+
+![Architecture](PUT_ARCHITECTURE_IMAGE_HERE)
+
+### 🔄 Pipeline Overview
+
+1. Input LiDAR Point Clouds  
+2. ROI Filtering  
+3. Feature Extraction (BEV backbone)  
+4. Feature Sharing between vehicles  
+5. Attention-based Fusion (Criss-Cross Attention)  
+6. Detection Head (Classification + Regression)  
+
+---
+
+## ⚙️ Key Features
+
+- 🧠 Attention-based feature fusion  
+- 🚗 Multi-agent cooperative perception  
+- ⚡ Distributed multi-GPU training  
+- 🔁 Checkpoint-based reproducibility  
+- 📊 Cross-domain evaluation (CARLA & Culver City)  
+- 🧩 Modular architecture design  
+
+---
+
+## 📦 Dataset
+
+We use the **OPV2V Dataset (Open Perception for V2V)**
+
+🔗 https://ucla.app.box.com/v/UCLA-MobilityLab-OPV2V  
+
+### Includes:
+- Multi-agent LiDAR data  
+- CARLA simulated towns  
+- Real-world Culver City dataset  
+
+---
+
+## 🧪 Experimental Pipeline
+
+### 📌 Steps
+
+1. Environment Setup  
+2. Install Dependencies  
+3. Clone Repository  
+4. Install Project  
+5. Configure Dataset Paths  
+6. Train Model  
+7. Resume Training  
+8. Run Inference  
+
+---
+
+## 🚀 Quick Start (Kaggle)
+
+### 🖥️ Requirements
+
+- GPU: **T4 × 2 (recommended)**  
+- Internet: ON  
+
+---
+
+### 🔧 Setup
+
+```bash
+git clone https://github.com/Mohammad-Amirifard/V2V_Cooperative_Perception.git
+cd V2V_Cooperative_Perception
+
+pip install -e .
