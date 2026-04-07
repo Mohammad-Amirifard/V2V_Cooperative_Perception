@@ -23,7 +23,7 @@ Instead of relying only on ego-vehicle sensors, we **fuse features from multiple
 
 ```html
 <p align="center">
-  <video src="https://github.com/Mohammad-Amirifard/V2V_Cooperative_Perception/blob/main/images/Media1.mp4" width="800" controls></video>
+<video src="https://raw.githubusercontent.com/Mohammad-Amirifard/V2V_Cooperative_Perception/main/images/Media1.mp4" width="800" controls></video>
 </p>
 ```
 
