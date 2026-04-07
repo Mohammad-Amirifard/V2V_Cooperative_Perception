@@ -27,6 +27,7 @@ Instead of relying only on ego-vehicle sensors, we **fuse features from multiple
 </p>
 ---
 
+---
 ## 🏗️ System Architecture
 
 ![Architecture](PUT_ARCHITECTURE_IMAGE_HERE)
