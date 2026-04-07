@@ -35,11 +35,10 @@ Instead of relying only on ego-vehicle sensors, we **fuse features from multiple
 ### 🔄 Pipeline Overview
 
 1. Input LiDAR Point Clouds  
-2. ROI Filtering  
-3. Feature Extraction (BEV backbone)  
-4. Feature Sharing between vehicles  
-5. Attention-based Fusion (Criss-Cross Attention)  
-6. Detection Head (Classification + Regression)  
+2. Feature Extraction (BEV backbone)  
+3. Feature Sharing between vehicles  
+4. Attention-based Fusion (Criss-Cross Attention)  
+5. Detection Head (Classification + Regression)  
 
 ---
 
