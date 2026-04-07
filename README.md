@@ -25,7 +25,7 @@ Instead of relying only on ego-vehicle sensors, we **fuse features from multiple
 <p align="center">
   <video src="PUT_YOUR_VIDEO.mp4" width="800" controls></video>
 </p>
----
+```
 
 ---
 ## 🏗️ System Architecture
