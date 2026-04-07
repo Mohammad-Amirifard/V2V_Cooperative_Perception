@@ -30,7 +30,7 @@ Instead of relying only on ego-vehicle sensors, we **fuse features from multiple
 ---
 ## 🏗️ System Architecture
 
-![Architecture](PUT_ARCHITECTURE_IMAGE_HERE)
+![Architecture]()
 
 ### 🔄 Pipeline Overview
 
