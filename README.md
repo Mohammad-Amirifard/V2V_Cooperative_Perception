@@ -17,15 +17,6 @@ Instead of relying only on ego-vehicle sensors, we **fuse features from multiple
 
 ---
 
-## 🎥 Demo (Movie)
-
-👉 Replace with your video:
-
-```html
-<p align="center">
-[▶ Watch Demo](https://github.com/Mohammad-Amirifard/V2V_Cooperative_Perception/raw/main/images/Media1.mp4)
-</p>
-```
 
 ---
 ## 🏗️ System Architecture
@@ -83,12 +74,22 @@ We use the **OPV2V Dataset (Open Perception for V2V)**
 
 ## 🚀 Quick Start (Kaggle)
 
+You can directly run this project on Kaggle using the notebook below:
+
+👉 **[Open Kaggle Notebook](https://www.kaggle.com/code/mohammadamirifard/v2v-cooperative-perception)**
+
+---
+
 ### 🖥️ Requirements
 
 - GPU: **T4 × 2 (recommended)**  
 - Internet: ON  
 
 ---
+
+### ⚠️ Notes
+
+- Make sure to enable **GPU acceleration** in Kaggle:
 
 ### 🔧 Setup
 
