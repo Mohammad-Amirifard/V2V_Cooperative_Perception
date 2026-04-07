@@ -30,7 +30,7 @@ Instead of relying only on ego-vehicle sensors, we **fuse features from multiple
 ---
 ## 🏗️ System Architecture
 
-![Architecture]()
+![Architecture](https://github.com/Mohammad-Amirifard/V2V_Cooperative_Perception/blob/main/images/Architecture.png)
 
 ### 🔄 Pipeline Overview
 
