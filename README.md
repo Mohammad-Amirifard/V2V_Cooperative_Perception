@@ -1,4 +1,3 @@
-The guide will be added as soon as possible
 # 🚗 V2V Cooperative Perception (V2VAM Extended)
 
 > End-to-End Multi-Agent LiDAR-Based Cooperative Perception System  
